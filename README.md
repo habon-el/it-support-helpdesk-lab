@@ -51,13 +51,13 @@ A hands-on IT Support and Helpdesk lab simulating a real Level 2 IT Support envi
 | SLA Policy Configuration | osTicket Admin Panel | ✅ Complete |
 | Department & Agent Setup | osTicket | ✅ Complete |
 | Ticket Lifecycle Management | osTicket | ✅ Complete |
-| macOS User Management | macOS System Settings | 🔄 In Progress |
-| macOS FileVault Encryption | macOS Security | 🔄 In Progress |
-| TCP/IP Troubleshooting | Wireshark + CLI | 🔄 In Progress |
-| DNS Diagnostics | nslookup, dig | 🔄 In Progress |
-| VPN Deployment | OpenVPN on Azure | 🔄 In Progress |
-| VPN Client Troubleshooting | OpenVPN Client | 🔄 In Progress |
-| ITIL Incident Management | Documentation | 🔄 In Progress |
+| macOS User Management | macOS System Settings | ✅ Complete |
+| macOS FileVault Encryption | macOS Security | ✅ Complete |
+| TCP/IP Troubleshooting | Wireshark + CLI | ✅ Complete |
+| DNS Diagnostics | nslookup, dig | ✅ Complete |
+| VPN Deployment | OpenVPN on Azure | ✅ Complete |
+| VPN Client Troubleshooting | OpenVPN Client | ✅ Complete |
+| ITIL Incident Management | Documentation | ✅ Complete |
 
 ---
 
